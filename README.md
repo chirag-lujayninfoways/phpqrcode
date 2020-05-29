@@ -1,6 +1,6 @@
 # phpqrcode
 
-# Generate QR code by using this application.
+# Generate QR Code with web application.
 
 1. Download or clone the this Repositorie. 
 2. Extract the download file.
