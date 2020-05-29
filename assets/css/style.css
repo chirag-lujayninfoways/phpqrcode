@@ -1,0 +1,41 @@
+body {
+    width: 550px;
+    font-family: Arial;
+}
+
+#frm-qr {
+    padding: 20px 40px;
+    background: #CCC;
+    border-radius: 3px;
+}
+
+.input-field {
+    padding: 10px;
+    border: 0px;
+    border-radius: 3px;
+    width: 250px;
+}
+
+.submit-button {
+    background: #333;
+    color: #FFF;
+    padding: 10px 20px;
+    border-radius: 3px;
+}
+
+.form-row {
+    margin-bottom: 15px;
+}
+
+.result-heading {
+    padding: 10px 0px 2px 0px;
+    border-bottom: #333 1px solid;
+    margin-bottom: 20px;
+}
+
+#validation-info {
+    display: none;
+    padding: 10px 20px;
+    background: #f5c7c8;
+    border: #e6bbbd 1px solid;
+}
